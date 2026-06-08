@@ -32,3 +32,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeesha123&show_icons=true&locale=en" alt="ganeesha123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeesha123&" alt="ganeesha123" /></p>
+
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
