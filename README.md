@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ganeesha Gamage</h1>
 <h3 align="center">Aspiring Data Analyst | Software QA Enthusiast | Future Project Manager | UI/UX Designer | Business Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeesha123&label=Profile%20views&color=0e75b6&style=flat" alt="ganeesha123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ganeesha123&label=Profile%20views&color=0e75b6&style=flat" alt="ganeesha123" /> </p>
+
+---
 
 - 🔭 I’m currently working on **Personal Portfolio Website, Data Analytics Projects & UI/UX Case Studies**
 
